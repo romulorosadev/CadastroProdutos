@@ -1,4 +1,4 @@
-# 2024 | Projeto: DevStars - Cadastro Produtos
+# 2024 | Projeto: DevStars - Cadastro Produtos com CRUD
 ## Linguagem de Programação: C#
 ### **Desenvolvedor:** Romulo Guilherme Rosa | [Github](https://github.com/romulorosadev) | [LinkedIn](https://linkedin.com/in/romulorosadev/)
 ### **Escola:** DevStars Tech | [site](https://devstars.tech/)
